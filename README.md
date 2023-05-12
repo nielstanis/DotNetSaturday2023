@@ -1,4 +1,4 @@
-# DevNetNoord 2023 - Sandboxing .NET assemblies for fun, profit and of course security!
+# DotNetSaturday 2023 - Sandboxing .NET assemblies for fun, profit and of course security!
 
 In onze huidige manier om .NET-applicaties te ontwikkelen, vertrouwen we veel op bibliotheken van derden die door anderen zijn ontwikkeld. Dit heeft natuurlijk veel voordelen vanuit het oogpunt van productiviteit, omdat het niet nodig is om de benodigde functionaliteit helemaal opnieuw te schrijven.
 
